@@ -1,1 +1,4 @@
-your_Age = input
+yourAge = input("What is your Age?")
+print("He is " + str(yourAge) + " years old")
+
+print('new year')

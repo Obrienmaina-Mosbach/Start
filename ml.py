@@ -118,4 +118,3 @@ plt.show()
 
 corr['Outcome'].sort_values(ascending = False)
 
-print('outcome')
