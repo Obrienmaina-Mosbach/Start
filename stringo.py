@@ -3,7 +3,7 @@ lastName = 'Bond'
 Version = 7
 
 fullName = fisrtName + ' ' + lastName + ' ' + str(Version)
-print(fullName)
+print(type(fullName))
 
 lenghtOfName = len(lastName)
 print(lenghtOfName)
@@ -18,3 +18,6 @@ print(rico)
 
 gag = rico.center(19, '-')
 print(gag)
+
+
+'''Python is a dynamically typed language, meaning you don/'t need to specify data types for variables. Python determines the data type automatically based on the assigned value:'''
